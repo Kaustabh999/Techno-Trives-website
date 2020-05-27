@@ -2430,6 +2430,11 @@ i:before {
   width: 100px;
 }
 
+.navbar-brand-width3 {
+  
+  padding-right: 30px;
+  width: 500px;
+}
 
 /* End Footer Area css
 ============================================================================================ */
