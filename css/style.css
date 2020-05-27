@@ -2427,15 +2427,18 @@ i:before {
 }
 
 .navbar-brand-width2 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
   width: 100px;
 }
 
 .navbar-brand-width3 {
-  
   padding-right: 30px;
   width: 500px;
 }
 
+.image-about{
+  width: 300px;
+}
 /* End Footer Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
